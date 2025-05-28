@@ -1,11 +1,4 @@
-<head>
- <style>
-        body{
-            background-color: lightpink;
-        }
-         
-      </style>
-</head>
+
 <h1>Hola!</h1>
     <p>Bienvenido a mi cuenta de github! </p>
     <br>

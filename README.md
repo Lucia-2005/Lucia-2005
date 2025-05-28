@@ -2,7 +2,10 @@
 <h1  style="color: lightpink;">Hola!</h1>
     <p>Bienvenido a mi cuenta de github! </p>
     <br>
-    <p>Soy una estudiante de informática que busca aprender los basicos d ela programación</p>
+    <p>Soy una estudiante de informática que busca aprender los basicos de la programación</p>
+    <br>
+    <p>Actualemnte estoy aprendiendo los básicos sobre Java</p>
+    
 
 <!--
 **Lucia-2005/Lucia-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

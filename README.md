@@ -3,8 +3,8 @@
     <p>Bienvenido a mi cuenta de github! </p>
     <br>
     <p>Soy una estudiante de informática que busca aprender los basicos de la programación</p>
-    <br>
     <p>Actualemnte estoy aprendiendo los básicos sobre Java</p>
+    
     
 
 <!--

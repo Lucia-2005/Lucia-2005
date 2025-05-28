@@ -1,4 +1,15 @@
-## Hi there 👋
+<head>
+ <style>
+        body{
+            background-color: lightpink;
+        }
+         
+      </style>
+</head>
+<h1>Hola!</h1>
+    <p>Bienvenido a mi cuenta de github! </p>
+    <br>
+    <p>Soy una estudiante de informática que busca aprender los basicos d ela programación</p>
 
 <!--
 **Lucia-2005/Lucia-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

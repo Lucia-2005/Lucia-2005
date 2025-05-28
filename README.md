@@ -1,5 +1,5 @@
 
-<h1>Hola!</h1>
+<h1  style="color: lightpink;">Hola!</h1>
     <p>Bienvenido a mi cuenta de github! </p>
     <br>
     <p>Soy una estudiante de informática que busca aprender los basicos d ela programación</p>

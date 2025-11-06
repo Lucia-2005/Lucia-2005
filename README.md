@@ -1,9 +1,10 @@
 
-<h1  style="color: lightpink;">Hola!</h1>
-    <p>Bienvenido a mi cuenta de github! </p>
+<h1  style="color: lightpink;">Hola! <3</h1>
+    <p>💐 Bienvenido a mi cuenta de github! 💐</p>
     <br>
-    <p>Soy una estudiante de informática que busca aprender los basicos de la programación</p>
-    <p>Actualemnte estoy aprendiendo los básicos sobre Java</p>
+    <p>🩷 estudiante de DAW 🩷</p>
+    <p>🌸 Aprendiendo los imprescindibles de JavaScript, o al menos intentandolo... 🌸</p>
+    
     
     
 

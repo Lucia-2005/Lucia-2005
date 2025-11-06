@@ -4,6 +4,12 @@
     <br>
     <p>🩷 estudiante de DAW 🩷</p>
     <p>🌸 Aprendiendo los imprescindibles de JavaScript, o al menos intentandolo... 🌸</p>
+    <br>
+    <br>
+    <p>❁    Java</p>
+    <p>❁    JavaScript</p>
+    <p>❁    Angular</p>
+    <p>❁    Next</p>
     
     
     
